@@ -59,3 +59,18 @@ Follow below instructions to run this project from command line.
 - `java -jar .\target\Battleship-1.0-SNAPSHOT.jar`
 
 Note: Above instructions assumes maven is pre-installed.
+
+## Example Run
+Use one of the below options on the menu:
+#### Between Human Player & CPU
+- Enter `1` to Start Game.
+- Enter `1` for Human Player 1.
+- Enter `2` for CPU Player 2.
+#### Between CPU & CPU
+- Enter `1` to Start Game.
+- Enter `2` for CPU Player 1.
+- Enter `2` for CPU Player 2.
+#### Between Human Player & Humar Player
+- Enter `1` to Start Game.
+- Enter `1` for Human Player 1.
+- Enter `1` for Human Player 2.
